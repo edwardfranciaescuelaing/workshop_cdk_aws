@@ -121,8 +121,8 @@ Para desplegar la infraestructura definida con CDK, usamos los siguientes comand
    ```  
    cdk deploy -r arn:aws:iam::706852032701:role/LabRole
    ```
-
 Este comando creará los recursos en tu cuenta de AWS, como la función Lambda. Al finalizar, recibirás una URL pública para acceder al servicio creado.
+
 ![image](https://github.com/user-attachments/assets/0c25a5c5-8ad6-42c6-b305-c0f7c272fd4f)
 
 ### 5. Probar la Aplicación
